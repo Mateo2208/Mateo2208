@@ -18,9 +18,6 @@ Soy un **Desarrollador de Software** apasionado por la **ciencia de datos**, **i
 
 ## 💼 Proyectos Destacados
 
-### [Dólar Blue Bolivia](https://www.dolarbluebolivia.click)
-Una plataforma que proporciona información en tiempo real sobre los precios oficiales y paralelos del dólar en Bolivia. Está desarrollada en **Flask** y **React**, y actualmente cuenta con notificaciones web para alertas personalizadas.
-
 ### [ESP32 Remote Control Car](https://github.com/Mateo2208/ESP32RemoteControlCar)
 Un proyecto de control de un auto robótico con ESP32 que sigue un control remoto utilizando **ESP-NOW**. Implementa modos de conducción autónoma y manual.
 
