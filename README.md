@@ -1,6 +1,6 @@
 # ¡Hola! Soy Mateo 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo-blue)](www.linkedin.com/in/mateo-soto-bb6ba0316)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo-blue) (https://www.linkedin.com/in/www.linkedin.com/in/mateo-soto-bb6ba0316)]
 [![Gmail](https://img.shields.io/badge/Email-mateo2208%40gmail.com-red)](mailto:mateo2208@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mateo2208.github.io-black)](https://mateo2208.github.io)
 
