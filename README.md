@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo-blue)](https://www.linkedin.com/in/mateo-soto-bb6ba0316)
 [![Gmail](https://img.shields.io/badge/Email-mateo2208%40gmail.com-red)](mailto:mateo2208@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mateo2208.github.io-black)](https://mateo2208.github.io)
 
 Soy un **Desarrollador de Software** apasionado por la **ciencia de datos**, **inteligencia artificial**, y la **ingeniería de sistemas**. Actualmente, estoy enfocado en el desarrollo de aplicaciones full-stack y en proyectos de automatización con tecnologías como **Python**, **JavaScript**, **C#**, y **React**.
 
